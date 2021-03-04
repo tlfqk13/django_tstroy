@@ -53,4 +53,8 @@ User 모델 확장하기
 3. AbstractBaseUser
 4. AbstractUser - 내장 유저 모델을 살짝 살짝 수정해서 사용
 
+django tips
+
+1. 코드에 프로젝트 이름 넣지 않는 것을 추천
+2. 배포할 때 DEBUG=False 를 잊지 맙시다.
 
